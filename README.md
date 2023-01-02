@@ -1,5 +1,6 @@
 # NYC_Trees
 
+## Intro
 Urban trees provide a multitude of benefits to city residents. In addition to the environmental benefits trees offer
 such as lowering the temperature in urban areas and reducing flooding, urban trees also contribute to physical and
 economic health by creating walk appeal and increasing property value. Street trees are unique in that they are
@@ -16,3 +17,8 @@ Tabulation Areas (NTAs)?
 - For the 10 species that have the most data points, can we predict the health status of a tree based on the
 features included in this dataset? Is one feature more important/more useful in predicting the health status
 for one species than the other?
+
+## Data
+Our dataset is the NYC street tree census from 2015 which can be accessed [here](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35) thorugh NYC OpenData Depository. 
+
+## Notebooks
