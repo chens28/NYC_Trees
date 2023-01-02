@@ -15,7 +15,7 @@ We aim to answer the following questions using the NYC street tree census datase
 Tabulation Areas (NTAs)? [Regression](https://github.com/chens28/NYC_Trees/blob/main/code/3_Prediction.ipynb)
 - For the 10 species that have the most data points, can we predict the health status of a tree based on the
 features included in this dataset? Is one feature more important/more useful in predicting the health status
-for one species than the other? [Classificatno Prep](https://github.com/chens28/NYC_Trees/blob/main/code/4_Classification_P2_Lasso_FAMD.ipynb) and [Models](https://github.com/chens28/NYC_Trees/blob/main/code/4_Classification_P3_Models.ipynb)
+for one species than the other? [Classification Prep](https://github.com/chens28/NYC_Trees/blob/main/code/4_Classification_P2_Lasso_FAMD.ipynb) and [Models](https://github.com/chens28/NYC_Trees/blob/main/code/4_Classification_P3_Models.ipynb)
 
 Refer to the full report [here](https://github.com/chens28/NYC_Trees/blob/main/Project%20Report/Team%20Lorax_%20Project%20Report.pdf).
 ## Data
