@@ -21,3 +21,10 @@ Refer to the full report [here](https://github.com/chens28/NYC_Trees/blob/main/P
 ## Data
 Our main dataset is the NYC street tree census from 2015 which can be accessed [here](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35) thorugh NYC OpenData Depository. Your can refer to desciptions of the data in this [file](https://www.google.com/url?q=https://data.cityofnewyork.us/api/views/pi5s-9p35/files/2e1e0292-20b4-4678-bea5-6936180074b3?download%3Dtrue%26filename%3DStreetTreeCensus2015TreesDataDictionary20161102.pdf&sa=D&source=docs&ust=1672680238434895&usg=AOvVaw3dF0kM8iOoFJQuCbM5lN0p).
 
+## Sample Visualizations
+![IMAGE3!](https://github.com/chens28/NYC_Trees/blob/main/Project%20Report/inference.png)
+
+![IMAGE2!](https://github.com/chens28/NYC_Trees/blob/main/Project%20Report/ROC.png)
+
+![IMAGE1!](https://github.com/chens28/NYC_Trees/blob/main/Project%20Report/FAMD.png)
+
