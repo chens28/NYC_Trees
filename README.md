@@ -27,4 +27,4 @@ Our main dataset is the NYC street tree census from 2015 which can be accessed [
 
 <img src="https://github.com/chens28/NYC_Trees/blob/main/Project%20Report/ROC.png" width=90% height=90%>
 
-<img src="https://github.com/chens28/NYC_Trees/blob/main/Project%20Report/FAMD.png" width=40% height=40%>
+<img src="https://github.com/chens28/NYC_Trees/blob/main/Project%20Report/FAMD.png" width=45% height=45%>
